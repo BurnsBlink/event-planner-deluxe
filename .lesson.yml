@@ -1,0 +1,7 @@
+---
+title: "Event Planner Deluxe"
+type: "challenge"  # challenge, exercise, article, video
+description: "Style a Single-page Application."
+tags: "web-design"
+ignore:
+- "event-planner-deluxe.md"

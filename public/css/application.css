@@ -1,0 +1,47 @@
+/* YOUR STYLING GOES HERE. */
+body {
+  /*background-color: #EBEBEB;*/
+  color: #393E41;
+  font-weight: bolder;
+}
+
+/* cool color palette #ffc700 #424242 #E9E9E9 #1bb0ce then need light white/grey color*/
+
+h1, h2 {
+  font-family: "norse";
+  font-size: 400%;
+  font-weight: bolder;
+  color: #0A0908;
+}
+
+#top {
+  border: 6px solid #59C3C3;
+  border-style: outset;
+  height: 210px;
+  margin-top: 30px;
+  vertical-align: middle
+  margin-bottom: 30px;
+  background-image: url('https://lh3.googleusercontent.com/1432NLFPAr9p0VWXXK-jjULZC2u5oyTL0dm5rwNbpRMWvD1_zW-Og52y9mUIR0cz1No=h800');
+}
+
+p {
+  color: #0A0908;
+}
+
+#header {
+  background-color: #52489C;
+  border-bottom: 4px solid #CAD2C5;
+}
+
+.nav.bar {
+  background-color: #EBEBEB;
+  color: #0A0908;
+  border: 2px solid #59C3C3;
+  padding: 8px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+.entrants {
+  color: #52489C;
+}
